@@ -26,3 +26,4 @@ gradle-2.14.1-all.zip
 gradle-3.3-all.zip 
 
 下载地址
+-<https://github.com/LiKaiRabbit/gradle/releases>
